@@ -19,3 +19,4 @@ use Illuminate\Http\Request;
 
 Route::resource('produto', 'ProdutoController');
 Route::resource('categoria', 'CategoriaController');
+//Route::resource('phone', 'PhoneController');
